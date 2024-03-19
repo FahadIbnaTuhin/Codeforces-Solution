@@ -1,9 +1,16 @@
 #include <iostream>
+#include <string>
 
 int main() {
-    auto n = 2;
+    std::string w;
+    std::cin >> w;
 
-    std::cout << sizeof(n) << std::endl;
+    if (w[0] == '+') {
+    	std::cout << "Pre" << std::endl;
+    } else {
+    	std::cout << "Post" << std::endl;
+    }
 
     return 0;
 }
+
