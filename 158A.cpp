@@ -1,18 +1,25 @@
 #include <iostream>
+using namespace std;
 
 int main() {
-	int n;
-	std::cin >> n;
+	int n, k;
+	cin >> n >> k;
 
-	int inputs[n];
+	int inp[n];
 	for(int i = 0; i < n; ++i) {
-		std::cin >> inputs[i];
+		cin >> inp[i];
 	}
 
-	for(int i : inputs) {
-		std::cout << i << " ";
-	}
-	std::cout << std::endl;
+    int count = 0;
+    for(int i = 0; i < n; ++i) {
+        if (inp[i] != 0 && inp[i] >= inp[k - 1]) {
+            count += 1;
+        } else {
+            break;
+        }
+    }
+
+    cout << count << endl;
 
 	return 0;
 }
