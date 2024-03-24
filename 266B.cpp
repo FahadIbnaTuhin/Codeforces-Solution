@@ -2,9 +2,10 @@
 using namespace std;
 
 int main() {
-    int y = 1234;
+    int n, k; cin >> n >> k;
+    string s;
 
-    cout << to_string(y) << endl;
     
+
     return 0;
 }

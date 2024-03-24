@@ -25,4 +25,10 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |69-A|[69-A](https://codeforces.com/problemset/problem/69/A)| [C++](./69A.cpp)|
 |977-A|[977-A](https://codeforces.com/problemset/problem/977/A)| [C++](./977A.cpp)|
 |96-A|[96-A](https://codeforces.com/problemset/problem/96/A)| [C++](./96A.cpp)|
+|110-A|[110-A](https://codeforces.com/problemset/problem/110/A)| [C++](./110A.cpp)|
+|734-A|[734-A](https://codeforces.com/problemset/problem/734/A)| [C++](./734A.cpp)|
+|41-A|[41-A](https://codeforces.com/problemset/problem/41/A)| [C++](./41A.cpp)|
+|116-A|[116-A](https://codeforces.com/problemset/problem/116/A)| [C++](./116A.cpp)|
+|677-A|[677-A](https://codeforces.com/problemset/problem/677/A)| [C++](./677A.cpp)|
+|271-A|[271-A](https://codeforces.com/problemset/problem/271/A)| [C++](./271A.cpp)|
 

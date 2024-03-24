@@ -1,23 +1,20 @@
+// Petya calls a number nearly lucky if the number of lucky digits in it is a lucky number
+
 #include <iostream>
 using namespace std;
 
 int main() {
-    string s; cin >> s;
+    long long int n; cin >> n;
+    int count = 0;
 
-    bool is_lucky = true;
-    if (size(s) % 4 == 0 || size(s) % 7 == 0) {
-        for(char c: s) {
-            if (c != '4' && c != '7') {
-                is_lucky = false;
-                break;
-            }
+    while(n != 0) {
+        if (n % 10 == 4 || n % 10 == 7) {
+            ++count;
         }
-    } else {
-        is_lucky = false;
+        n = n / 10;
     }
-    
 
-    if (is_lucky) {
+    if (count == 4 || count == 7) {
         cout << "YES" << endl;
     } else {
         cout << "NO" << endl;
