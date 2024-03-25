@@ -31,4 +31,14 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |116-A|[116-A](https://codeforces.com/problemset/problem/116/A)| [C++](./116A.cpp)|
 |677-A|[677-A](https://codeforces.com/problemset/problem/677/A)| [C++](./677A.cpp)|
 |271-A|[271-A](https://codeforces.com/problemset/problem/271/A)| [C++](./271A.cpp)|
-
+|266-B|[266-B](https://codeforces.com/problemset/problem/266/B)| [C++](./266B.cpp)|
+|58-A|[58-A](https://codeforces.com/problemset/problem/58/A)| [C++](./58A.cpp)|
+|1030-A|[1030-A](https://codeforces.com/problemset/problem/1030/A)| [C++](./1030A.cpp)|
+|122-A|[122-A](https://codeforces.com/problemset/problem/122/A)| [C++](./122A.cpp)|
+|467-A|[467-A](https://codeforces.com/problemset/problem/467/A)| [C++](./467A.cpp)|
+|344-A|[344-A](https://codeforces.com/problemset/problem/344/A)| [C++](./344A.cpp)|
+|160-A|[160-A](https://codeforces.com/problemset/problem/160/A)| [C++](./160A.cpp)|
+|486-A|[486-A](https://codeforces.com/problemset/problem/486/A)| [C++](./486A.cpp)|
+|136-A|[136-A](https://codeforces.com/problemset/problem/136/A)| [C++](./136A.cpp)|
+|200-B|[200-B](https://codeforces.com/problemset/problem/200/B)| [C++](./200B.cpp)|
+|318-A|[318-A](https://codeforces.com/problemset/problem/318/A)| [C++](./318A.cpp)|
