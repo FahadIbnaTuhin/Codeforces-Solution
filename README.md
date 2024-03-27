@@ -48,5 +48,6 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |705-A|[705-A](https://codeforces.com/problemset/problem/705/A)| [C++](./705A.cpp)|
 |405-A|[405-A](https://codeforces.com/problemset/problem/405/A)| [C++](./405A.cpp)|
 |1328-A|[1328-A](https://codeforces.com/problemset/problem/1328/A)| [C++](./1328A.cpp)|
-
+|469-A|[469-A](https://codeforces.com/problemset/problem/469/A)| [C++](./469A.cpp)|
+|520-A|[520-A](https://codeforces.com/problemset/problem/520/A)| [C++](./520A.cpp)|
 
