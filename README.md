@@ -50,4 +50,10 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1328-A|[1328-A](https://codeforces.com/problemset/problem/1328/A)| [C++](./1328A.cpp)|
 |469-A|[469-A](https://codeforces.com/problemset/problem/469/A)| [C++](./469A.cpp)|
 |520-A|[520-A](https://codeforces.com/problemset/problem/520/A)| [C++](./520A.cpp)|
+|144-A|[144-A](https://codeforces.com/problemset/problem/144/A)| [C++](./144A.cpp)|
+|479-A|[479-A](https://codeforces.com/contest/479/problem/A)| [C++](./479A.cpp)|
+|148-A|[148-A](https://codeforces.com/problemset/problem/148/A)| [C++](./148A.cpp)|
+|580-A|[580-A](https://codeforces.com/problemset/problem/580/A)| [C++](./580A.cpp)|
+|996-A|[996-A](https://codeforces.com/problemset/problem/996/A)| [C++](./996A.cpp)|
+|443-A|[443-A](https://codeforces.com/problemset/problem/443/A)| [C++](./443A.cpp)|
 
