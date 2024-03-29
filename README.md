@@ -56,4 +56,4 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |580-A|[580-A](https://codeforces.com/problemset/problem/580/A)| [C++](./580A.cpp)|
 |996-A|[996-A](https://codeforces.com/problemset/problem/996/A)| [C++](./996A.cpp)|
 |443-A|[443-A](https://codeforces.com/problemset/problem/443/A)| [C++](./443A.cpp)|
-
+|208-A|[208-A](https://codeforces.com/problemset/problem/208/A)| [C++](./208A.cpp)|
