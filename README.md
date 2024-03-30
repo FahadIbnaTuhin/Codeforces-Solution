@@ -57,3 +57,8 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |996-A|[996-A](https://codeforces.com/problemset/problem/996/A)| [C++](./996A.cpp)|
 |443-A|[443-A](https://codeforces.com/problemset/problem/443/A)| [C++](./443A.cpp)|
 |208-A|[208-A](https://codeforces.com/problemset/problem/208/A)| [C++](./208A.cpp)|
+|158-B|[158-B](https://codeforces.com/problemset/problem/158/B)| [C++](./158B.cpp)|
+|785-A|[785-A](https://codeforces.com/problemset/problem/785/A)| [C++](./785A.cpp)|
+|131-A|[131-A](https://codeforces.com/problemset/problem/131/A)| [C++](./131A.cpp)|
+|25-A|[25-A](https://codeforces.com/problemset/problem/25/A)| [C++](./25A.cpp)|
+
