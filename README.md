@@ -61,4 +61,7 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |785-A|[785-A](https://codeforces.com/problemset/problem/785/A)| [C++](./785A.cpp)|
 |131-A|[131-A](https://codeforces.com/problemset/problem/131/A)| [C++](./131A.cpp)|
 |25-A|[25-A](https://codeforces.com/problemset/problem/25/A)| [C++](./25A.cpp)|
+|268-A|[268-A](https://codeforces.com/problemset/problem/268/A)| [C++](./268A.cpp)|
+|1335-A|[1335-A](https://codeforces.com/problemset/problem/1335/A)| [C++](./1335A.cpp)|
+|141-A|[141-A](https://codeforces.com/problemset/problem/141/A)| [C++](./141A.cpp)|
 
