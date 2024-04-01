@@ -66,4 +66,8 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |141-A|[141-A](https://codeforces.com/problemset/problem/141/A)| [C++](./141A.cpp)|
 |4-C|[4-C](https://codeforces.com/problemset/problem/4/C)| [C++](./4C.cpp)|
 |510-A|[510-A](https://codeforces.com/problemset/problem/510/A)| [C++](./510A.cpp)|
+|337-A|[337-A](https://codeforces.com/problemset/problem/337/A)| [C++](./337A.cpp)|
+|230-A|[230-A](https://codeforces.com/problemset/problem/230/A)| [C++](./230A.cpp)|
+|427-A|[427-A](https://codeforces.com/problemset/problem/427/A)| [C++](./427A.cpp)|
+|1352-A|[1352-A](https://codeforces.com/problemset/problem/1352/A)| [C++](./1352A.cpp)|
 

@@ -2,36 +2,25 @@
 using namespace std;
 
 int main() {
-    int n, m, f; cin >> n >> m;
-    vector<int> arr;
+    int n, m; cin >> n >> m;
 
-    for(int i = 0; i < m; i++) {
-        cin >> f;
-        arr.push_back(f);
-    }
+    int arr[m];
+    for(int i = 0; i < m; i++) cin >> arr[i];
 
-    while(arr.size() != 0) {
-        int max_pieces = *max_element(arr.begin(), arr.end());
-        int min_pieces = *min_element(arr.begin(), arr.end());
-        
-        auto max_it = find(arr.begin(), arr.end(), max_pieces);
-        auto min_it = find(arr.begin(), arr.end(), min_pieces);
+    sort(arr, arr + m);
 
-        int max_pieces1 = *max_element(arr.begin(), arr.end());
-        int min_pieces1 = *min_element(arr.begin(), arr.end());
+    int lowest = 1000;
+    for(int i = 0; i <= (m - n); i++) {
+        vector<int> subarr(arr + i, arr + i + n);
+        int max_e = *max_element(subarr.begin(), subarr.end());
+        int min_e = *min_element(subarr.begin(), subarr.end());
 
-        if (abs(max_pieces1 - max_pieces) > abs(min_pieces1 - min_pieces)) {
-            arr.erase(max_it);
-        } else {
-            arr.erase(min_it);
+        if ((max_e - min_e) < lowest) {
+            lowest = max_e - min_e;
         }
     }
 
-    for(int i : arr) {
-        cout << i << " ";
-    }
+    cout << lowest << endl;
     
     return 0;
 }
-// 4 6
-// 10 12 10 7 5 22
