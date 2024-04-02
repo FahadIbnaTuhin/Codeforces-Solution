@@ -70,4 +70,12 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |230-A|[230-A](https://codeforces.com/problemset/problem/230/A)| [C++](./230A.cpp)|
 |427-A|[427-A](https://codeforces.com/problemset/problem/427/A)| [C++](./427A.cpp)|
 |1352-A|[1352-A](https://codeforces.com/problemset/problem/1352/A)| [C++](./1352A.cpp)|
+|750-A|[750-A](https://codeforces.com/problemset/problem/750/A)| [C++](./750A.cpp)|
+|155-A|[155-A](https://codeforces.com/problemset/problem/155/A)| [C++](./155A.cpp)|
+|581-A|[581-A](https://codeforces.com/problemset/problem/581/A)| [C++](./581A.cpp)|
+|723-A|[723-A](https://codeforces.com/problemset/problem/723/A)| [C++](./723A.cpp)|
+|732-A|[732-A](https://codeforces.com/problemset/problem/732/A)| [C++](./732A.cpp)|
+|1154-A|[1154-A](https://codeforces.com/problemset/problem/1154/A)| [C++](./1154A.cpp)|
+|151-A|[151-A](https://codeforces.com/problemset/problem/151/A)| [C++](./151A.cpp)|
+|1742-A|[1742-A](https://codeforces.com/problemset/problem/1742/A)| [C++](./1742A.cpp)|
 
