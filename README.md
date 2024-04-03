@@ -78,4 +78,15 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1154-A|[1154-A](https://codeforces.com/problemset/problem/1154/A)| [C++](./1154A.cpp)|
 |151-A|[151-A](https://codeforces.com/problemset/problem/151/A)| [C++](./151A.cpp)|
 |1742-A|[1742-A](https://codeforces.com/problemset/problem/1742/A)| [C++](./1742A.cpp)|
+|1399-A|[1399-A](https://codeforces.com/problemset/problem/1399/A)| [C++](./1399A.cpp)|
+|1409-A|[1409-A](https://codeforces.com/problemset/problem/1409/A)| [C++](./1409A.cpp)|
+|1703-A|[1703-A](https://codeforces.com/problemset/problem/1703/A)| [C++](./1703A.cpp)|
+|630-A|[630-A](https://codeforces.com/problemset/problem/630/A)| [C++](./630A.cpp)|
+|1512-A|[1512-A](https://codeforces.com/problemset/problem/1512/A)| [C++](./1512A.cpp)|
+|381-A|[381-A](https://codeforces.com/problemset/problem/381/A)| [C++](./381A.cpp)|
+|1692-A|[1692-A](https://codeforces.com/problemset/problem/1692/A)| [C++](./1692A.cpp)|
+|32-B|[32-B](https://codeforces.com/problemset/problem/32/B)| [C++](./32B.cpp)|
+|1676-A|[1676-A](https://codeforces.com/problemset/problem/1676/A)| [C++](./1676A.cpp)|
+|758-A|[758-A](https://codeforces.com/problemset/problem/758/A)| [C++](./758A.cpp)|
+|472-A|[472-A](https://codeforces.com/problemset/problem/472/A)| [C++](./472A.cpp)|
 
