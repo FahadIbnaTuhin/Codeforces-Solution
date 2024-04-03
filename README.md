@@ -89,4 +89,8 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1676-A|[1676-A](https://codeforces.com/problemset/problem/1676/A)| [C++](./1676A.cpp)|
 |758-A|[758-A](https://codeforces.com/problemset/problem/758/A)| [C++](./758A.cpp)|
 |472-A|[472-A](https://codeforces.com/problemset/problem/472/A)| [C++](./472A.cpp)|
+|432-A|[432-A](https://codeforces.com/problemset/problem/432/A)| [C++](./432A.cpp)|
+|1669-A|[1669-A](https://codeforces.com/problemset/problem/1669/A)| [C++](./1669A.cpp)|
+|1560-A|[1560-A](https://codeforces.com/problemset/problem/1560/A)| [C++](./1560A.cpp)|
+|490-A|[490-A](https://codeforces.com/problemset/problem/490/A)| [C++](./490A.cpp)|
 
