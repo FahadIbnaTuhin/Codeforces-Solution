@@ -1,10 +1,7 @@
-#include <bits/stdc++.h>
-
+#include<bits/stdc++.h>
 using namespace std;
 
-int main() {
-    vector<int> arr = {1, 2, 3};
-
+int main(){
     
 
     return 0;

@@ -93,4 +93,9 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1669-A|[1669-A](https://codeforces.com/problemset/problem/1669/A)| [C++](./1669A.cpp)|
 |1560-A|[1560-A](https://codeforces.com/problemset/problem/1560/A)| [C++](./1560A.cpp)|
 |490-A|[490-A](https://codeforces.com/problemset/problem/490/A)| [C++](./490A.cpp)|
+|1367-A|[1367-A](https://codeforces.com/problemset/problem/1367/A)| [C++](./1367A.cpp)|
+|1807-A|[1807-A](https://codeforces.com/problemset/problem/1807/A)| [C++](./1807A.cpp)|
+|1791-A|[1791-A](https://codeforces.com/problemset/problem/1791/A)| [C++](./1791A.cpp)|
+|1343-B|[1343-B](https://codeforces.com/problemset/problem/1343/B)| [C++](./1343B.cpp)|
+|703-A|[703-A](https://codeforces.com/problemset/problem/703/A)| [C++](./703A.cpp)|
 
