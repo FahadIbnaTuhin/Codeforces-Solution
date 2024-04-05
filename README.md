@@ -98,4 +98,5 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1791-A|[1791-A](https://codeforces.com/problemset/problem/1791/A)| [C++](./1791A.cpp)|
 |1343-B|[1343-B](https://codeforces.com/problemset/problem/1343/B)| [C++](./1343B.cpp)|
 |703-A|[703-A](https://codeforces.com/problemset/problem/703/A)| [C++](./703A.cpp)|
+|1367-B|[1367-B](https://codeforces.com/problemset/problem/1367/B)| [C++](./1367B.cpp)|
 
