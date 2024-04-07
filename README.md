@@ -99,4 +99,12 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1343-B|[1343-B](https://codeforces.com/problemset/problem/1343/B)| [C++](./1343B.cpp)|
 |703-A|[703-A](https://codeforces.com/problemset/problem/703/A)| [C++](./703A.cpp)|
 |1367-B|[1367-B](https://codeforces.com/problemset/problem/1367/B)| [C++](./1367B.cpp)|
+|1624-A|[1624-A](https://codeforces.com/problemset/problem/1624/A)| [C++](./1624A.cpp)|
+|1520-A|[1520-A](https://codeforces.com/problemset/problem/1520/A)| [C++](./1520A.cpp)|
+|80-A|[80-A](https://codeforces.com/problemset/problem/80/A)| [C++](./80A.cpp)|
+|1433-A|[1433-A](https://codeforces.com/problemset/problem/1433/A)| [C++](./1433A.cpp)|
+|1370-A|[1370-A](https://codeforces.com/problemset/problem/1370/A)| [C++](./1370A.cpp)|
+|1915-A|[1915-A](https://codeforces.com/problemset/problem/1915/A)| [C++](./1915A.cpp)|
+
+
 

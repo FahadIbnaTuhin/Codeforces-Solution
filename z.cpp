@@ -2,7 +2,12 @@
 using namespace std;
 
 int main() {
-    cout << "WRONG" << endl;
+    char l = '1';
+
+    l += ('1' - '0');
+
+    cout << l << endl;
+
 
     return 0;
 }
