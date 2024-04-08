@@ -105,6 +105,28 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1433-A|[1433-A](https://codeforces.com/problemset/problem/1433/A)| [C++](./1433A.cpp)|
 |1370-A|[1370-A](https://codeforces.com/problemset/problem/1370/A)| [C++](./1370A.cpp)|
 |1915-A|[1915-A](https://codeforces.com/problemset/problem/1915/A)| [C++](./1915A.cpp)|
-
-
+|1551-A|[1551-A](https://codeforces.com/problemset/problem/1551/A)| [C++](./1551A.cpp)|
+|1619-A|[1619-A](https://codeforces.com/problemset/problem/1619/A)| [C++](./1619A.cpp)|
+|1360-A|[1360-A](https://codeforces.com/problemset/problem/1360/A)| [C++](./1360A.cpp)|
+|1873-A|[1873-A](https://codeforces.com/problemset/problem/1873/A)| [C++](./1873A.cpp)|
+|1353-B|[1353-B](https://codeforces.com/problemset/problem/1353/B)| [C++](./1353B.cpp)|
+|1722-A|[1722-A](https://codeforces.com/problemset/problem/1722/A)| [C++](./1722A.cpp)|
+|1472-B|[1472-B](https://codeforces.com/problemset/problem/1472/B)| [C++](./1472B.cpp)|
+|492-A|[492-A](https://codeforces.com/problemset/problem/492/A)| [C++](./492A.cpp)|
+|749-A|[749-A](https://codeforces.com/problemset/problem/749/A)| [C++](./749A.cpp)|
+|1283-A|[1283-A](https://codeforces.com/problemset/problem/1283/A)| [C++](./1283A.cpp)|
+|1535-A|[1535-A](https://codeforces.com/problemset/problem/1535/A)| [C++](./1535A.cpp)|
+|707-A|[707-A](https://codeforces.com/problemset/problem/707/A)| [C++](./707A.cpp)|
+|1360-B|[1360-B](https://codeforces.com/problemset/problem/1360/B)| [C++](./1360B.cpp)|
+|1426-A|[1426-A](https://codeforces.com/problemset/problem/1426/A)| [C++](./1426A.cpp)|
+|1829-A|[1829-A](https://codeforces.com/problemset/problem/1426/A)| [C++](./1829A.cpp)|
+|1703-B|[1703-B](https://codeforces.com/problemset/problem/1703/B)| [C++](./1703B.cpp)|
+|1676-B|[1676-B](https://codeforces.com/problemset/problem/1676/B)| [C++](./1676B.cpp)|
+|1371-A|[1371-A](https://codeforces.com/problemset/problem/1371/A)| [C++](./1371A.cpp)|
+|1294-A|[1294-A](https://codeforces.com/problemset/problem/1294/A)| [C++](./1294A.cpp)|
+|1742-B|[1742-B](https://codeforces.com/problemset/problem/1742/B)| [C++](./1742B.cpp)|
+|959-A|[959-A](https://codeforces.com/problemset/problem/959/A)| [C++](./959A.cpp)|
+|1772-A|[1772-A](https://codeforces.com/problemset/problem/1772/A)| [C++](./1772A.cpp)|
+|1873-B|[1873-B](https://codeforces.com/problemset/problem/1873/B)| [C++](./1873B.cpp)|
+|731-A|[731-A](https://codeforces.com/problemset/problem/731/A)| [C++](./731A.cpp)|
 
