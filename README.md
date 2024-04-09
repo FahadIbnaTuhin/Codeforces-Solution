@@ -129,4 +129,6 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1772-A|[1772-A](https://codeforces.com/problemset/problem/1772/A)| [C++](./1772A.cpp)|
 |1873-B|[1873-B](https://codeforces.com/problemset/problem/1873/B)| [C++](./1873B.cpp)|
 |731-A|[731-A](https://codeforces.com/problemset/problem/731/A)| [C++](./731A.cpp)|
+|1722-B|[1722-B](https://codeforces.com/problemset/problem/1722/B)| [C++](./1722B.cpp)|
+|1857-A|[1857-A](https://codeforces.com/problemset/problem/1857/A)| [C++](./1857A.cpp)|
 
