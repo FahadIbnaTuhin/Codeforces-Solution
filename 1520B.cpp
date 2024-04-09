@@ -1,24 +1,26 @@
-#include <iostream>
+#include <bits/stdc++.h>
 
 using namespace std;
 
 int main() {
-    string inp = "ABC";
-    int inp_size = size(inp);
+    int t; cin >> t;
 
-    string first = inp.substr(0, (inp_size / 2));
-    if (inp_size % 2 == 0) {
-        string second = inp.substr((inp_size / 2));
+    while(t--) {
+        int n, count = 0; cin >> n;
 
-        if (first == second) {
-            
+        for(int d = 1, k = 0; d * ((pow(10, k + 1) - 1) / 9) <= n; d++) {
+            if (d > 9) {
+                ++k;
+                d = 0;
+            } else {
+                ++count;
+            }
         }
-    } else {
-        string second = inp.substr((inp_size / 2), (inp_size - 2));
 
-
+        cout << count << endl;
     }
-    cout << first << " " <<  second << endl;
 
     return 0;
 }
+
+// geometric series, Sn = (a(r^n - 1)) / (r - 1); when r > 1

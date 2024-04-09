@@ -131,4 +131,6 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |731-A|[731-A](https://codeforces.com/problemset/problem/731/A)| [C++](./731A.cpp)|
 |1722-B|[1722-B](https://codeforces.com/problemset/problem/1722/B)| [C++](./1722B.cpp)|
 |1857-A|[1857-A](https://codeforces.com/problemset/problem/1857/A)| [C++](./1857A.cpp)|
+|1399-B|[1399-B](https://codeforces.com/problemset/problem/1399/B)| [C++](./1399B.cpp)|
+|1520-B|[1520-B](https://codeforces.com/problemset/problem/1520/B)| [C++](./1520B.cpp)|
 
