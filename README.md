@@ -133,4 +133,12 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1857-A|[1857-A](https://codeforces.com/problemset/problem/1857/A)| [C++](./1857A.cpp)|
 |1399-B|[1399-B](https://codeforces.com/problemset/problem/1399/B)| [C++](./1399B.cpp)|
 |1520-B|[1520-B](https://codeforces.com/problemset/problem/1520/B)| [C++](./1520B.cpp)|
+|1955-A|[1955-A](https://codeforces.com/problemset/problem/1955/A)| [C++](./1955A.cpp)|
+|1955-B|[1955-B](https://codeforces.com/problemset/problem/1955/B)| [C++](./1955B.cpp)|
+|1542-A|[1542-A](https://codeforces.com/problemset/problem/1542/A)| [C++](./1542A.cpp)|
+|1791-B|[1791-B](https://codeforces.com/problemset/problem/1791/B)| [C++](./1791B.cpp)|
+|935-A|[935-A](https://codeforces.com/problemset/problem/935/A)| [C++](./935A.cpp)|
+|1760-B|[1760-B](https://codeforces.com/problemset/problem/1760/B)| [C++](./1760B.cpp)|
+|702-A|[702-A](https://codeforces.com/problemset/problem/702/A)| [C++](./702A.cpp)|
+
 
