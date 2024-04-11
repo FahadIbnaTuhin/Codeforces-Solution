@@ -2,23 +2,13 @@
 
 using namespace std;
 
-int total_pages(int w, int h) {
-    if (w % 2 == 0 && h % 2 == 0) {
-        return w * h;
-    } else if (w % 2 == 0) {
-        return w / 2;
-    } else if (h % 2 == 0) {
-        return h / 2;
-    } else {
-        return 1;
-    }
-}
-
 int main() {
-    int w, h; cin >> w >> h;
+    ios::sync_with_stdio(false);
+    cin.tie(0);
+    string s = ".l......";
 
-    cout << total_pages(w, h) << endl;
-    
+    s.erase(remove(s.begin(), s.end(), '.'), s.end());
+    cout << s << endl;
 
     return 0;
 }

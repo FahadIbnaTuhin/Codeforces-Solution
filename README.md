@@ -140,5 +140,11 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |935-A|[935-A](https://codeforces.com/problemset/problem/935/A)| [C++](./935A.cpp)|
 |1760-B|[1760-B](https://codeforces.com/problemset/problem/1760/B)| [C++](./1760B.cpp)|
 |702-A|[702-A](https://codeforces.com/problemset/problem/702/A)| [C++](./702A.cpp)|
+|1472-A|[1472-A](https://codeforces.com/problemset/problem/1472/A)| [C++](./1472A.cpp)|
+|1311-A|[1311-A](https://codeforces.com/problemset/problem/1311/A)| [C++](./1311A.cpp)|
+|1926-A|[1926-A](https://codeforces.com/problemset/problem/1926/A)| [C++](./1926A.cpp)|
+|1850-C|[1850-C](https://codeforces.com/problemset/problem/1850/C)| [C++](./1850C.cpp)|
+|233-A|[233-A](https://codeforces.com/problemset/problem/233/A)| [C++](./233A.cpp)|
 
 
+1829B

@@ -2,25 +2,27 @@
 
 using namespace std;
 
-int total_page(int w, int h) { // assuming atleast one parameter is even
-    int t = 1;
-    
-    if (w % 2 == 0) {
-        t += total_page(w / 2, h);
-    } else if (h % 2 == 0) {
-        t += total_page(w, h / 2);
-    }
-
-    return t;
-}
-
 int main() {
-    int w, h; cin >> w >> h;
-    int result = total_page(w, h);
-    cout << result << endl;
-    
+    ios::sync_with_stdio(false);
+    cin.tie(0);
+    int t; cin >> t;
+
+    while(t--) {
+        int w, h, n; cin >> w >> h >> n;
+        int total_page = 1;
+
+        while(w % 2 == 0) {
+            w /= 2;
+            total_page *= 2;
+        }
+
+        while(h % 2 == 0) {
+            h /= 2;
+            total_page *= 2;
+        }
+
+        cout << (total_page >= n ? "YES" : "NO") << '\n';
+    }
 
     return 0;
 }
-
-// 4 1 2 1 4
