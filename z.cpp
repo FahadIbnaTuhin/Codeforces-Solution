@@ -5,10 +5,9 @@ using namespace std;
 int main() {
     ios::sync_with_stdio(false);
     cin.tie(0);
-    string s = ".l......";
+    vector<int> arr = {1, 2, 3};
 
-    s.erase(remove(s.begin(), s.end(), '.'), s.end());
-    cout << s << endl;
+    cout << arr[4] << '\n';
 
     return 0;
 }

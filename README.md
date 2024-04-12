@@ -145,6 +145,9 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1926-A|[1926-A](https://codeforces.com/problemset/problem/1926/A)| [C++](./1926A.cpp)|
 |1850-C|[1850-C](https://codeforces.com/problemset/problem/1850/C)| [C++](./1850C.cpp)|
 |233-A|[233-A](https://codeforces.com/problemset/problem/233/A)| [C++](./233A.cpp)|
+|78-A|[78-A](https://codeforces.com/problemset/problem/78/A)| [C++](./78A.cpp)|
+|1850-B|[1850-B](https://codeforces.com/problemset/problem/1850/B)| [C++](./1850B.cpp)|
+|1829-B|[1829-B](https://codeforces.com/problemset/problem/1829/B)| [C++](./1829B.cpp)|
+|1791-C|[1791-C](https://codeforces.com/problemset/problem/1791/C)| [C++](./1791C.cpp)|
+|1462-A|[1462-A](https://codeforces.com/problemset/problem/1462/A)| [C++](./1462A.cpp)|
 
-
-1829B
