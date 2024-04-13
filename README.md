@@ -150,4 +150,10 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1829-B|[1829-B](https://codeforces.com/problemset/problem/1829/B)| [C++](./1829B.cpp)|
 |1791-C|[1791-C](https://codeforces.com/problemset/problem/1791/C)| [C++](./1791C.cpp)|
 |1462-A|[1462-A](https://codeforces.com/problemset/problem/1462/A)| [C++](./1462A.cpp)|
+|1807-B|[1807-B](https://codeforces.com/problemset/problem/1807/B)| [C++](./1807B.cpp)|
+|1669-B|[1669-B](https://codeforces.com/problemset/problem/1669/B)| [C++](./1669B.cpp)|
+|166-A|[166-A](https://codeforces.com/problemset/problem/166/A)| [C++](./166A.cpp)|
+|1927-A|[1927-A](https://codeforces.com/problemset/problem/1927/A)| [C++](./1927A.cpp)|
+|1454-A|[1454-A](https://codeforces.com/problemset/problem/1454/A)| [C++](./1454A.cpp)|
+
 
