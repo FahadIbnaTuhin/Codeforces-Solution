@@ -1,21 +1,22 @@
-#include <iostream>
-#include <map>
+#include <bits/stdc++.h>
+
 using namespace std;
 
-int main() {
-    int n; cin >> n;
-    map<string, int> database;
-    string s;
+int main() {        
+    ios::sync_with_stdio(false);
+    cin.tie(0);
+    map<string, int> count;
+    int t; cin >> t;
 
-    while(n--) {
-        cin >> s;
+    while(t--) {
+        string s; cin >> s;
 
-        if (database.count(s) == 0) {
-            cout << "OK" << endl;
-            database[s] = 1;
+        if (count[s]) {
+            cout << s << count[s] << '\n';
+            ++count[s];
         } else {
-            cout << s << database[s] << endl;
-            database[s] += 1;
+            ++count[s];
+            cout << "OK\n";
         }
     }
 

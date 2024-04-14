@@ -155,5 +155,6 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |166-A|[166-A](https://codeforces.com/problemset/problem/166/A)| [C++](./166A.cpp)|
 |1927-A|[1927-A](https://codeforces.com/problemset/problem/1927/A)| [C++](./1927A.cpp)|
 |1454-A|[1454-A](https://codeforces.com/problemset/problem/1454/A)| [C++](./1454A.cpp)|
-
-
+|1729-A|[1729-A](https://codeforces.com/problemset/problem/1729/A)| [C++](./1729A.cpp)|
+|855-A|[855-A](https://codeforces.com/problemset/problem/855/A)| [C++](./855A.cpp)|
+|903-C|[903-C](https://codeforces.com/problemset/problem/903/C)| [C++](./903C.cpp)|
