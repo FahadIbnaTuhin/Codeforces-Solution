@@ -15,15 +15,15 @@ int main() {
 
     if (arr.size() == 1) cout << "NO\n";
     else {
-        // cout << *(++arr.begin()) << '\n';
+        cout << *(++arr.begin()) << '\n';
 
-        int p, c = 0; // to print the 3rd unique value
-        for(auto u : arr) {
-            if (c == 3) break;
-            p = u;
-            c++;
-        }
-        cout << p << '\n';
+        // int p, c = 0; // to print the 3rd unique value
+        // for(auto u : arr) {
+        //     if (c == 3) break;
+        //     p = u;
+        //     c++;
+        // }
+        // cout << p << '\n';
     }
 
     return 0;
