@@ -158,3 +158,9 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1729-A|[1729-A](https://codeforces.com/problemset/problem/1729/A)| [C++](./1729A.cpp)|
 |855-A|[855-A](https://codeforces.com/problemset/problem/855/A)| [C++](./855A.cpp)|
 |903-C|[903-C](https://codeforces.com/problemset/problem/903/C)| [C++](./903C.cpp)|
+|1956-A|[1956-A](https://codeforces.com/problemset/problem/1956/A)| [C++](./1956A.cpp)|
+|1956-B|[1956-B](https://codeforces.com/problemset/problem/1956/B)| [C++](./1956B.cpp)|
+|918-B|[918-B](https://codeforces.com/problemset/problem/918/B)| [C++](./918B.cpp)|
+|22-A|[22-A](https://codeforces.com/problemset/problem/22/A)| [C++](./22A.cpp)|
+
+

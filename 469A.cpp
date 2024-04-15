@@ -1,31 +1,58 @@
-#include <iostream>
-#include <set>
+#include <bits/stdc++.h>
+
 using namespace std;
 
-int main() {
+int main() {        
+    ios::sync_with_stdio(false);
+    cin.tie(0);
     int n; cin >> n;
-    set<int> arr;
+    set<int> levels;
 
-    int p, x; cin >> p;
-    for(int i = 0; i < p; i++) {
-        cin >> x;
-        arr.insert(x);
+    int x; cin >> x;
+    for(int i = 0; i < x; i++) {
+        int p; cin >> p;
+        levels.insert(p);
     }
 
-    int q; cin >> q;
-    for(int i = 0; i < q; i++) {
-        cin >> x;
-        arr.insert(x);
+    int y; cin >> y;
+    for(int i = 0; i < y; i++) {
+        int q; cin >> q;
+        levels.insert(q);
     }
 
-    if (arr.size() == n) {
-        cout << "I become the guy." << endl;
-    } else {
-        cout << "Oh, my keyboard!" << endl;
-    }
+    cout << (levels.size() == n ? "I become the guy.\n" : "Oh, my keyboard!\n");
 
     return 0;
 }
+
+// #include <iostream>
+// #include <set>
+// using namespace std;
+
+// int main() {
+//     int n; cin >> n;
+//     set<int> arr;
+
+//     int p, x; cin >> p;
+//     for(int i = 0; i < p; i++) {
+//         cin >> x;
+//         arr.insert(x);
+//     }
+
+//     int q; cin >> q;
+//     for(int i = 0; i < q; i++) {
+//         cin >> x;
+//         arr.insert(x);
+//     }
+
+//     if (arr.size() == n) {
+//         cout << "I become the guy." << endl;
+//     } else {
+//         cout << "Oh, my keyboard!" << endl;
+//     }
+
+//     return 0;
+// }
 
 // #include <iostream>
 // #include <vector>
@@ -65,4 +92,4 @@ int main() {
 // is not found in the vector arr. If find does not locate q, it returns arr.end(), 
 // indicating that the value was not found. Therefore, if find returns arr.end(), it 
 // means that q is not present in the vector arr, and the condition find(arr.begin(),
-//  arr.end(), q) == arr.end() evaluates to true.
+// arr.end(), q) == arr.end() evaluates to true.
