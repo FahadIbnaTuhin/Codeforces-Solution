@@ -162,5 +162,6 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1956-B|[1956-B](https://codeforces.com/problemset/problem/1956/B)| [C++](./1956B.cpp)|
 |918-B|[918-B](https://codeforces.com/problemset/problem/918/B)| [C++](./918B.cpp)|
 |22-A|[22-A](https://codeforces.com/problemset/problem/22/A)| [C++](./22A.cpp)|
+|799-B|[799-B](https://codeforces.com/problemset/problem/799/B)| [C++](./799B.cpp)|
 
 
