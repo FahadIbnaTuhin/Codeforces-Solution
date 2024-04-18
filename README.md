@@ -163,5 +163,6 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |918-B|[918-B](https://codeforces.com/problemset/problem/918/B)| [C++](./918B.cpp)|
 |22-A|[22-A](https://codeforces.com/problemset/problem/22/A)| [C++](./22A.cpp)|
 |799-B|[799-B](https://codeforces.com/problemset/problem/799/B)| [C++](./799B.cpp)|
-
+|248-A|[248-A](https://codeforces.com/problemset/problem/248/A)| [C++](./248A.cpp)|
+|227-B|[227-B](https://codeforces.com/problemset/problem/227/B)| [C++](./227B.cpp)|
 
