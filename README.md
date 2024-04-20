@@ -165,4 +165,5 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |799-B|[799-B](https://codeforces.com/problemset/problem/799/B)| [C++](./799B.cpp)|
 |248-A|[248-A](https://codeforces.com/problemset/problem/248/A)| [C++](./248A.cpp)|
 |227-B|[227-B](https://codeforces.com/problemset/problem/227/B)| [C++](./227B.cpp)|
+|1353-D|[1353-D](https://codeforces.com/problemset/problem/1353/D)| [C++](./1353D.cpp)|
 
