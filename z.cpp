@@ -1,23 +1,11 @@
-#include <iostream>
-#include <math.h>
+#include <bits/stdc++.h>
+
 using namespace std;
 
-int main()
-{
-    int n, m, last;
-    double t, max(0);
-    cin >> n >> m;
+int main(){
+    // ios::sync_with_stdio(false);
+    // cin.tie(0);
+    
 
-    for (int i = 1; i <= n; i++)
-    {
-        cin >> t;
-        if (ceil(t / m) >= max)
-        {
-            last = i;
-            max = ceil(t / m);
-        }
-    }
-
-    cout << last << endl;
     return 0;
 }

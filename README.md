@@ -166,4 +166,8 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |248-A|[248-A](https://codeforces.com/problemset/problem/248/A)| [C++](./248A.cpp)|
 |227-B|[227-B](https://codeforces.com/problemset/problem/227/B)| [C++](./227B.cpp)|
 |1353-D|[1353-D](https://codeforces.com/problemset/problem/1353/D)| [C++](./1353D.cpp)|
+|450-A|[450-A](https://codeforces.com/problemset/problem/450/A)| [C++](./450A.cpp)|
+|165-A|[165-A](https://codeforces.com/problemset/problem/165/A)| [C++](./165A.cpp)|
+|139-A|[139-A](https://codeforces.com/problemset/problem/139/A)| [C++](./139A.cpp)|
+
 
