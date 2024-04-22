@@ -169,5 +169,11 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |450-A|[450-A](https://codeforces.com/problemset/problem/450/A)| [C++](./450A.cpp)|
 |165-A|[165-A](https://codeforces.com/problemset/problem/165/A)| [C++](./165A.cpp)|
 |139-A|[139-A](https://codeforces.com/problemset/problem/139/A)| [C++](./139A.cpp)|
+|224-A|[224-A](https://codeforces.com/problemset/problem/224/A)| [C++](./224A.cpp)|
+|34-A|[34-A](https://codeforces.com/problemset/problem/34/A)| [C++](./34A.cpp)|
+|205-A|[205-A](https://codeforces.com/problemset/problem/205/A)| [C++](./205A.cpp)|
+|1957-A|[1957-A](https://codeforces.com/problemset/problem/1957/A)| [C++](./1957A.cpp)|
+|199-A|[199-A](https://codeforces.com/problemset/problem/199/A)| [C++](./199A.cpp)|
+|339-B|[339-B](https://codeforces.com/problemset/problem/339/B)| [C++](./339B.cpp)|
 
 
