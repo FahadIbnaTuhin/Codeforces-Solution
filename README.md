@@ -175,5 +175,9 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1957-A|[1957-A](https://codeforces.com/problemset/problem/1957/A)| [C++](./1957A.cpp)|
 |199-A|[199-A](https://codeforces.com/problemset/problem/199/A)| [C++](./199A.cpp)|
 |339-B|[339-B](https://codeforces.com/problemset/problem/339/B)| [C++](./339B.cpp)|
+|320-B|[320-B](https://codeforces.com/problemset/problem/320/B)| [C++](./320B.cpp)|
+|43-A|[43-A](https://codeforces.com/problemset/problem/43/A)| [C++](./43A.cpp)|
+|215-A|[215-A](https://codeforces.com/problemset/problem/215/A)| [C++](./215A.cpp)|
+|34-B|[34-B](https://codeforces.com/problemset/problem/34/B)| [C++](./34B.cpp)|
 
 
