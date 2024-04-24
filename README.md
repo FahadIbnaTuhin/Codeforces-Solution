@@ -179,5 +179,6 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |43-A|[43-A](https://codeforces.com/problemset/problem/43/A)| [C++](./43A.cpp)|
 |215-A|[215-A](https://codeforces.com/problemset/problem/215/A)| [C++](./215A.cpp)|
 |34-B|[34-B](https://codeforces.com/problemset/problem/34/B)| [C++](./34B.cpp)|
-
-
+|903-B|[903-B](https://codeforces.com/problemset/problem/903/B)| [C++](./903B.cpp)|
+|214-A|[214-A](https://codeforces.com/problemset/problem/214/A)| [C++](./214A.cpp)|
+|149-A|[149-A](https://codeforces.com/problemset/problem/149/A)| [C++](./149A.cpp)|
