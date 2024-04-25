@@ -182,3 +182,9 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |903-B|[903-B](https://codeforces.com/problemset/problem/903/B)| [C++](./903B.cpp)|
 |214-A|[214-A](https://codeforces.com/problemset/problem/214/A)| [C++](./214A.cpp)|
 |149-A|[149-A](https://codeforces.com/problemset/problem/149/A)| [C++](./149A.cpp)|
+|221-A|[221-A](https://codeforces.com/problemset/problem/221/A)| [C++](./221A.cpp)|
+|118-B|[118-B](https://codeforces.com/problemset/problem/118/B)| [C++](./118B.cpp)|
+|218-B|[218-B](https://codeforces.com/problemset/problem/218/B)| [C++](./218B.cpp)|
+
+
+
