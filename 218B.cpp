@@ -20,7 +20,6 @@ int main() {
             num = arr[++k];
         }
     }
-    // cout << min_sum << '\n';
 
     sort(arr, arr + m, greater<int>()); // 2 1 1
     int max_sum = 0;
