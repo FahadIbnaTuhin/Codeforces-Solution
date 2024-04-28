@@ -187,4 +187,19 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |218-B|[218-B](https://codeforces.com/problemset/problem/218/B)| [C++](./218B.cpp)|
 |459-B|[459-B](https://codeforces.com/problemset/problem/459/B)| [C++](./459B.cpp)|
 |630-A|[630-A](https://codeforces.com/problemset/problem/630/A)| [C++](./630A.cpp)|
+|352-B|[352-B](https://codeforces.com/problemset/problem/352/B)| [C++](./352B.cpp)|
+|298-B|[298-B](https://codeforces.com/problemset/problem/298/B)| [C++](./298B.cpp)|
+
+
+
+
+
+
+
+
+
+
+
+
+
 
