@@ -189,9 +189,10 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |630-A|[630-A](https://codeforces.com/problemset/problem/630/A)| [C++](./630A.cpp)|
 |352-B|[352-B](https://codeforces.com/problemset/problem/352/B)| [C++](./352B.cpp)|
 |298-B|[298-B](https://codeforces.com/problemset/problem/298/B)| [C++](./298B.cpp)|
-
-
-
+|258-A|[258-A](https://codeforces.com/problemset/problem/258/A)| [C++](./258A.cpp)|
+|1933-A|[1933-A](https://codeforces.com/problemset/problem/1933/A)| [C++](./1933A.cpp)|
+|1878-A|[1878-A](https://codeforces.com/problemset/problem/1878/A)| [C++](./1878A.cpp)|
+|1946-A|[1946-A](https://codeforces.com/problemset/problem/1946/A)| [C++](./1946A.cpp)|
 
 
 
