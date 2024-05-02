@@ -193,6 +193,9 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1933-A|[1933-A](https://codeforces.com/problemset/problem/1933/A)| [C++](./1933A.cpp)|
 |1878-A|[1878-A](https://codeforces.com/problemset/problem/1878/A)| [C++](./1878A.cpp)|
 |1946-A|[1946-A](https://codeforces.com/problemset/problem/1946/A)| [C++](./1946A.cpp)|
+|43-B|[43-B](https://codeforces.com/problemset/problem/43/B)| [C++](./43B.cpp)|
+|296-A|[296-A](https://codeforces.com/problemset/problem/296/A)| [C++](./296A.cpp)|
+|186-A|[186-A](https://codeforces.com/problemset/problem/186/A)| [C++](./186A.cpp)|
 
 
 
