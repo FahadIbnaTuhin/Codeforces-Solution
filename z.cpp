@@ -1,27 +1,27 @@
-#include <bits/stdc++.h>
+// 4048451   Jul 11, 2013 3:40:15 AM	fuwutu	 242B - Big Segment	 GNU C++0x	Accepted	62 ms	0 KB
+#include <cstdio>
+#include <algorithm>
 
 using namespace std;
 
-int main() {
-    // ios::sync_with_stdio(false);
-    // cin.tie(0);
-    int n; cin >> n;
-
-    vector<int> v;
-    for(int i = 2; i <= 1e7 && v.size() < n; i++) {
-        bool divisible = false;
-        for(auto u : v) {
-            if (i % u == 0) {
-                divisible = true;
-                break;
-            }
+int main()
+{
+    int n, l, r, minl, maxr, number(1);
+    scanf("%d%d%d", &n, &minl, &maxr);
+    for (int i = 2; i <= n; ++i)
+    {
+        scanf("%d%d", &l, &r);
+        if (l <= minl && r >= maxr)
+        {
+            number = i;
         }
-        if (!divisible) {
-            v.push_back(i);
-            cout << i << ' ';
+        else if (l < minl || r > maxr)
+        {
+            number = -1;
         }
+        minl = min(minl, l);
+        maxr = max(maxr, r);
     }
-    cout << '\n';
-
+    printf("%d\n", number);
     return 0;
 }

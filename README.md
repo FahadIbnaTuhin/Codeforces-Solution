@@ -196,7 +196,8 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |43-B|[43-B](https://codeforces.com/problemset/problem/43/B)| [C++](./43B.cpp)|
 |296-A|[296-A](https://codeforces.com/problemset/problem/296/A)| [C++](./296A.cpp)|
 |186-A|[186-A](https://codeforces.com/problemset/problem/186/A)| [C++](./186A.cpp)|
-
+|327-B|[327-B](https://codeforces.com/problemset/problem/327/B)| [C++](./327B.cpp)|
+|242-B|[242-B](https://codeforces.com/problemset/problem/242/B)| [C++](./242B.cpp)|
 
 
 
