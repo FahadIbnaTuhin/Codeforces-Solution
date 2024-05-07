@@ -6,9 +6,14 @@ int main() {
     ios::sync_with_stdio(false);
     cin.tie(0);
     int n, m; cin >> n >> m;
-    n = min(n, m);
 
-    cout << (n % 2 == 0 ? "Malvika\n" : "Akshat\n");
+    int i = 1;
+    while(n >= m * i) {
+        n++;
+        i++;
+    }
+
+    cout << n << '\n';
 
     return 0;
 }

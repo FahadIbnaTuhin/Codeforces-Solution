@@ -198,6 +198,20 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |186-A|[186-A](https://codeforces.com/problemset/problem/186/A)| [C++](./186A.cpp)|
 |327-B|[327-B](https://codeforces.com/problemset/problem/327/B)| [C++](./327B.cpp)|
 |242-B|[242-B](https://codeforces.com/problemset/problem/242/B)| [C++](./242B.cpp)|
+|451-A|[451-A](https://codeforces.com/problemset/problem/451/A)| [C++](./451A.cpp)|
+|1475-A|[1475-A](https://codeforces.com/problemset/problem/1475/A)| [C++](./1475A.cpp)|
+|313-A|[313-A](https://codeforces.com/problemset/problem/313/A)| [C++](./313A.cpp)|
+|1475-B|[1475-B](https://codeforces.com/problemset/problem/1475/B)| [C++](./1475B.cpp)|
+|474-A|[474-A](https://codeforces.com/problemset/problem/474/A)| [C++](./474A.cpp)|
+|556-A|[556-A](https://codeforces.com/problemset/problem/556/A)| [C++](./556A.cpp)|
+|460-A|[460-A](https://codeforces.com/problemset/problem/460/A)| [C++](./460A.cpp)|
+|1335-B|[1335-B](https://codeforces.com/problemset/problem/1335/B)| [C++](./1335B.cpp)|
+|977-B|[977-B](https://codeforces.com/problemset/problem/977/B)| [C++](./977B.cpp)|
+
+
+
+
+
 
 
 
