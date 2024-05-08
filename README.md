@@ -207,7 +207,12 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |460-A|[460-A](https://codeforces.com/problemset/problem/460/A)| [C++](./460A.cpp)|
 |1335-B|[1335-B](https://codeforces.com/problemset/problem/1335/B)| [C++](./1335B.cpp)|
 |977-B|[977-B](https://codeforces.com/problemset/problem/977/B)| [C++](./977B.cpp)|
-
+|1337-B|[1337-B](https://codeforces.com/problemset/problem/1337/B)| [C++](./1337B.cpp)|
+|1373-B|[1373-B](https://codeforces.com/problemset/problem/1373/B)| [C++](./1373B.cpp)|
+|1850-D|[1850-D](https://codeforces.com/problemset/problem/1850/D)| [C++](./1850D.cpp)|
+|1462-C|[1462-C](https://codeforces.com/problemset/problem/1462/C)| [C++](./1462C.cpp)|
+|1742-C|[1742-C](https://codeforces.com/problemset/problem/1742/C)| [C++](./1742C.cpp)|
+|567-A|[567-A](https://codeforces.com/problemset/problem/567/A)| [C++](./567A.cpp)|
 
 
 
