@@ -213,11 +213,10 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1462-C|[1462-C](https://codeforces.com/problemset/problem/1462/C)| [C++](./1462C.cpp)|
 |1742-C|[1742-C](https://codeforces.com/problemset/problem/1742/C)| [C++](./1742C.cpp)|
 |567-A|[567-A](https://codeforces.com/problemset/problem/567/A)| [C++](./567A.cpp)|
-
-
-
-
-
+|1959-A|[1959-A](https://codeforces.com/problemset/problem/1959/A)| [C++](./1959A.cpp)|
+|1959-B|[1959-B](https://codeforces.com/problemset/problem/1959/B)| [C++](./1959B.cpp)|
+|1959-C|[1959-C](https://codeforces.com/problemset/problem/1959/C)| [C++](./1959C.cpp)|
+|1927-B|[1927-B](https://codeforces.com/problemset/problem/1927/B)| [C++](./1927B.cpp)|
 
 
 
