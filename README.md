@@ -217,7 +217,11 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1959-B|[1959-B](https://codeforces.com/problemset/problem/1959/B)| [C++](./1959B.cpp)|
 |1959-C|[1959-C](https://codeforces.com/problemset/problem/1959/C)| [C++](./1959C.cpp)|
 |1927-B|[1927-B](https://codeforces.com/problemset/problem/1927/B)| [C++](./1927B.cpp)|
-
+|1971-A|[1971-A](https://codeforces.com/problemset/problem/1971/A)| [C++](./1971A.cpp)|
+|1971-B|[1971-B](https://codeforces.com/problemset/problem/1971/B)| [C++](./1971B.cpp)|
+|1971-C|[1971-C](https://codeforces.com/problemset/problem/1971/C)| [C++](./1971C.cpp)|
+|709-A|[709-A](https://codeforces.com/problemset/problem/709/A)| [C++](./709A.cpp)|
+|1941-C|[1941-C](https://codeforces.com/problemset/problem/1941/C)| [C++](./1941C.cpp)|
 
 
 
