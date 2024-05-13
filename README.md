@@ -222,11 +222,8 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1971-C|[1971-C](https://codeforces.com/problemset/problem/1971/C)| [C++](./1971C.cpp)|
 |709-A|[709-A](https://codeforces.com/problemset/problem/709/A)| [C++](./709A.cpp)|
 |1941-C|[1941-C](https://codeforces.com/problemset/problem/1941/C)| [C++](./1941C.cpp)|
-
-
-
-
-
-
-
+|1535-B|[1535-B](https://codeforces.com/problemset/problem/1535/B)| [C++](./1535B.cpp)|
+|1296-B|[1296-B](https://codeforces.com/problemset/problem/1296/B)| [C++](./1296B.cpp)|
+|1807-D|[1807-D](https://codeforces.com/problemset/problem/1807/D)| [C++](./1807D.cpp)|
+|26-A|[26-A](https://codeforces.com/problemset/problem/26/A)| [C++](./26A.cpp)|
 
