@@ -226,4 +226,23 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1296-B|[1296-B](https://codeforces.com/problemset/problem/1296/B)| [C++](./1296B.cpp)|
 |1807-D|[1807-D](https://codeforces.com/problemset/problem/1807/D)| [C++](./1807D.cpp)|
 |26-A|[26-A](https://codeforces.com/problemset/problem/26/A)| [C++](./26A.cpp)|
+|1559-A|[1559-A](https://codeforces.com/problemset/problem/1559/A)| [C++](./1559A.cpp)|
+|1714-A|[1714-A](https://codeforces.com/problemset/problem/1714/A)| [C++](./1714A.cpp)|
+|1878-C|[1878-C](https://codeforces.com/problemset/problem/1878/C)| [C++](./1878C.cpp)|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
