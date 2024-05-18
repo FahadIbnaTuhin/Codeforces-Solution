@@ -236,6 +236,9 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1555-A|[1555-A](https://codeforces.com/problemset/problem/1555/A)| [C++](./1555A.cpp)|
 |1883-B|[1883-B](https://codeforces.com/problemset/problem/1883/B)| [C++](./1883B.cpp)|
 |1650-B|[1650-B](https://codeforces.com/problemset/problem/1650/B)| [C++](./1650B.cpp)|
+|1973-A|[1973-A](https://codeforces.com/problemset/problem/1973/A)| [C++](./1973A.cpp)|
+|276-A|[276-A](https://codeforces.com/problemset/problem/276/A)| [C++](./276A.cpp)|
+|1837-B|[1837-B](https://codeforces.com/problemset/problem/1837/B)| [C++](./1837B.cpp)|
 
 
 
