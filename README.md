@@ -239,6 +239,16 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1973-A|[1973-A](https://codeforces.com/problemset/problem/1973/A)| [C++](./1973A.cpp)|
 |276-A|[276-A](https://codeforces.com/problemset/problem/276/A)| [C++](./276A.cpp)|
 |1837-B|[1837-B](https://codeforces.com/problemset/problem/1837/B)| [C++](./1837B.cpp)|
+|1543-A|[1543-A](https://codeforces.com/problemset/problem/1543/A)| [C++](./1543A.cpp)|
+|1433-C|[1433-C](https://codeforces.com/problemset/problem/1433/C)| [C++](./1433C.cpp)|
+|746-B|[746-B](https://codeforces.com/problemset/problem/746/B)| [C++](./746B.cpp)|
+
+
+
+
+
+
+
 
 
 
