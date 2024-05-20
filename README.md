@@ -242,6 +242,8 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1543-A|[1543-A](https://codeforces.com/problemset/problem/1543/A)| [C++](./1543A.cpp)|
 |1433-C|[1433-C](https://codeforces.com/problemset/problem/1433/C)| [C++](./1433C.cpp)|
 |746-B|[746-B](https://codeforces.com/problemset/problem/746/B)| [C++](./746B.cpp)|
+|1851-A|[1851-A](https://codeforces.com/problemset/problem/1851/A)| [C++](./1851A.cpp)|
+|1851-B|[1851-B](https://codeforces.com/problemset/problem/1851/B)| [C++](./1851B.cpp)|
 
 
 
