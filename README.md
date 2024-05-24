@@ -249,6 +249,11 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1974-B|[1974-B](https://codeforces.com/problemset/problem/1974/B)| [C++](./1974B.cpp)|
 |363-B|[363-B](https://codeforces.com/problemset/problem/363/B)| [C++](./363B.cpp)|
 |350-A|[350-A](https://codeforces.com/problemset/problem/350/A)| [C++](./350A.cpp)|
+|246-B|[246-B](https://codeforces.com/problemset/problem/246/B)| [C++](./246B.cpp)|
+|1547-A|[1547-A](https://codeforces.com/problemset/problem/1547/A)| [C++](./1547A.cpp)|
+|1547-B|[1547-B](https://codeforces.com/problemset/problem/1547/B)| [C++](./1547B.cpp)|
+|160-B|[160-B](https://codeforces.com/problemset/problem/160/B)| [C++](./160B.cpp)|
+|253-A|[253-A](https://codeforces.com/problemset/problem/253/A)| [C++](./253A.cpp)|
 
 
 

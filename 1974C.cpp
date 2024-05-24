@@ -1,44 +1,42 @@
-#include <bits/stdc++.h>
-
+// Not Understand
+#include<bits/stdc++.h>
+ 
 using namespace std;
-
-typedef long long ll;
-
-int result(const auto &a, const auto &b) {
-    if ((get<0>(a) != get<0>(b)) && (get<1>(a) == get<1>(b)) && (get<2>(a) == get<2>(b))) return 1;
-    if ((get<0>(a) == get<0>(b)) && (get<1>(a) != get<1>(b)) && (get<2>(a) == get<2>(b))) return 1;
-    if ((get<0>(a) == get<0>(b)) && (get<1>(a) == get<1>(b)) && (get<2>(a) != get<2>(b))) return 1;
-    return 0;
-}
-
-void solve() {
-    int n; cin >> n; 
-    int arr[n]; 
-    for(int i = 0; i < n; i++) cin >> arr[i];
-
-    vector<tuple<int, int, int>> data;
-    for (int i = 0; i < n - 2; i++) {
-        data.push_back(make_tuple(arr[i], arr[i + 1], arr[i + 2]));
+using ll = long long int;
+const ll MOD = 1e9+7;
+ 
+ 
+void solve()
+{   
+    ll n; cin >> n;
+    ll a, b, c;
+    map<tuple<ll,ll,ll>, ll> kek;
+    ll ans = 0;
+    cin >> a >> b;
+    for(ll i = 0; i <n-2; i++){
+        cin >> c;
+        ans+=kek[{0,b,c}]++;
+        ans+=kek[{a,0,c}]++;
+        ans+=kek[{a,b,0}]++;
+        ans-= 3*kek[{a,b,c}];
+        kek[{a,b,c}]++;
+        a=b;
+        b=c;
     }
-
-    int cnt = 0;
-    for (int i = 0, sz = data.size(); i < sz - 1; i++) {
-        for (int j = i + 1; j < sz; j++) {
-            cnt += result(data[i], data[j]);
-        }
-    }
-
-    cout << cnt << '\n';
+    cout << ans;
+    return;
 }
-
-int main() {
-    ios::sync_with_stdio(false);
-    cin.tie(0);
-    int t; cin >> t;
-
-    while (t--) {
+ 
+ 
+int main()
+{   
+    // ios_base :: sync_with_stdio(0); cin.tie(0);
+    ll t;
+    cin >> t;
+    while (t--)
+    {
         solve();
-    }   
-
+        cout << "\n";
+    }
     return 0;
 }
