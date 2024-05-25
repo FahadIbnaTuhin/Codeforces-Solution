@@ -254,7 +254,11 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1547-B|[1547-B](https://codeforces.com/problemset/problem/1547/B)| [C++](./1547B.cpp)|
 |160-B|[160-B](https://codeforces.com/problemset/problem/160/B)| [C++](./160B.cpp)|
 |253-A|[253-A](https://codeforces.com/problemset/problem/253/A)| [C++](./253A.cpp)|
-
+|304-A|[304-A](https://codeforces.com/problemset/problem/304/A)| [C++](./304A.cpp)|
+|254-A|[254-A](https://codeforces.com/problemset/problem/254/A)| [C++](./254A.cpp)|
+|353-A|[353-A](https://codeforces.com/problemset/problem/353/A)| [C++](./353A.cpp)|
+|349-A|[349-A](https://codeforces.com/problemset/problem/349/A)| [C++](./349A.cpp)|
+|189-A|[189-A](https://codeforces.com/problemset/problem/189/A)| [C++](./189A.cpp)|
 
 
 
