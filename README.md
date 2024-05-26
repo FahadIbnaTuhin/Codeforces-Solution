@@ -259,6 +259,9 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |353-A|[353-A](https://codeforces.com/problemset/problem/353/A)| [C++](./353A.cpp)|
 |349-A|[349-A](https://codeforces.com/problemset/problem/349/A)| [C++](./349A.cpp)|
 |189-A|[189-A](https://codeforces.com/problemset/problem/189/A)| [C++](./189A.cpp)|
+|1975-A|[1975-A](https://codeforces.com/problemset/problem/1975/A)| [C++](./1975A.cpp)|
+|1975-B|[1975-B](https://codeforces.com/problemset/problem/1975/B)| [C++](./1975B.cpp)|
+|1975-C|[1975-C](https://codeforces.com/problemset/problem/1975/C)| [C++](./1975C.cpp)|
 
 
 
