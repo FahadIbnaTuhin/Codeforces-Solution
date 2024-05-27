@@ -262,7 +262,9 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1975-A|[1975-A](https://codeforces.com/problemset/problem/1975/A)| [C++](./1975A.cpp)|
 |1975-B|[1975-B](https://codeforces.com/problemset/problem/1975/B)| [C++](./1975B.cpp)|
 |1975-C|[1975-C](https://codeforces.com/problemset/problem/1975/C)| [C++](./1975C.cpp)|
-
+|1977-A|[1977-A](https://codeforces.com/problemset/problem/1977/A)| [C++](./1977A.cpp)|
+|287-A|[287-A](https://codeforces.com/problemset/problem/287/A)| [C++](./287A.cpp)|
+|285-C|[285-C](https://codeforces.com/problemset/problem/285/C)| [C++](./285C.cpp)|
 
 
 
