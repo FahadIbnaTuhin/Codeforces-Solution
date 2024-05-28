@@ -265,6 +265,12 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1977-A|[1977-A](https://codeforces.com/problemset/problem/1977/A)| [C++](./1977A.cpp)|
 |287-A|[287-A](https://codeforces.com/problemset/problem/287/A)| [C++](./287A.cpp)|
 |285-C|[285-C](https://codeforces.com/problemset/problem/285/C)| [C++](./285C.cpp)|
+|433-B|[433-B](https://codeforces.com/problemset/problem/433/B)| [C++](./433B.cpp)|
+|230-B|[230-B](https://codeforces.com/problemset/problem/230/B)| [C++](./230B.cpp)|
+|368-B|[368-B](https://codeforces.com/problemset/problem/368/B)| [C++](./368B.cpp)|
+|327-A|[327-A](https://codeforces.com/problemset/problem/327/A)| [C++](./327A.cpp)|
+|237-A|[237-A](https://codeforces.com/problemset/problem/237/A)| [C++](./237A.cpp)|
+|289-B|[289-B](https://codeforces.com/problemset/problem/289/B)| [C++](./289B.cpp)|
 
 
 
