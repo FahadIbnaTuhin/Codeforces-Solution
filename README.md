@@ -277,6 +277,9 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1186-A|[1186-A](https://codeforces.com/problemset/problem/1186/A)| [C++](./1186A.cpp)|
 |897-A|[897-A](https://codeforces.com/problemset/problem/897/A)| [C++](./897A.cpp)|
 |451-B|[451-B](https://codeforces.com/problemset/problem/451/B)| [C++](./451B.cpp)|
+|315-A|[315-A](https://codeforces.com/problemset/problem/315/A)| [C++](./315A.cpp)|
+|260-A|[260-A](https://codeforces.com/problemset/problem/260/A)| [C++](./260A.cpp)|
+
 
 
 
