@@ -279,6 +279,8 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |451-B|[451-B](https://codeforces.com/problemset/problem/451/B)| [C++](./451B.cpp)|
 |315-A|[315-A](https://codeforces.com/problemset/problem/315/A)| [C++](./315A.cpp)|
 |260-A|[260-A](https://codeforces.com/problemset/problem/260/A)| [C++](./260A.cpp)|
+|989-A|[989-A](https://codeforces.com/problemset/problem/989/A)| [C++](./989A.cpp)|
+|948-A|[948-A](https://codeforces.com/problemset/problem/948/A)| [C++](./948A.cpp)|
 
 
 
