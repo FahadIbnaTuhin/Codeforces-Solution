@@ -281,6 +281,11 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |260-A|[260-A](https://codeforces.com/problemset/problem/260/A)| [C++](./260A.cpp)|
 |989-A|[989-A](https://codeforces.com/problemset/problem/989/A)| [C++](./989A.cpp)|
 |948-A|[948-A](https://codeforces.com/problemset/problem/948/A)| [C++](./948A.cpp)|
+|1174-A|[1174-A](https://codeforces.com/problemset/problem/1174/A)| [C++](./1174A.cpp)|
+|1980-A|[1980-A](https://codeforces.com/problemset/problem/1980/A)| [C++](./1980A.cpp)|
+|1980-B|[1980-B](https://codeforces.com/problemset/problem/1980/B)| [C++](./1980B.cpp)|
+|1980-C|[1980-C](https://codeforces.com/problemset/problem/1980/C)| [C++](./1980C.cpp)|
+|805-A|[805-A](https://codeforces.com/problemset/problem/805/A)| [C++](./805A.cpp)|
 
 
 
