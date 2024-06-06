@@ -286,6 +286,10 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1980-B|[1980-B](https://codeforces.com/problemset/problem/1980/B)| [C++](./1980B.cpp)|
 |1980-C|[1980-C](https://codeforces.com/problemset/problem/1980/C)| [C++](./1980C.cpp)|
 |805-A|[805-A](https://codeforces.com/problemset/problem/805/A)| [C++](./805A.cpp)|
+|1011-A|[1011-A](https://codeforces.com/problemset/problem/1011/A)| [C++](./1011A.cpp)|
+|1169-A|[1169-A](https://codeforces.com/problemset/problem/1169/A)| [C++](./1169A.cpp)|
+|1163-A|[1163-A](https://codeforces.com/problemset/problem/1163/A)| [C++](./1163A.cpp)|
+|1040-A|[1040-A](https://codeforces.com/problemset/problem/1040/A)| [C++](./1040A.cpp)|
 
 
 
