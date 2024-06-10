@@ -290,6 +290,8 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1169-A|[1169-A](https://codeforces.com/problemset/problem/1169/A)| [C++](./1169A.cpp)|
 |1163-A|[1163-A](https://codeforces.com/problemset/problem/1163/A)| [C++](./1163A.cpp)|
 |1040-A|[1040-A](https://codeforces.com/problemset/problem/1040/A)| [C++](./1040A.cpp)|
+|876-A|[876-A](https://codeforces.com/problemset/problem/876/A)| [C++](./876A.cpp)|
+|834-A|[834-A](https://codeforces.com/problemset/problem/834/A)| [C++](./834A.cpp)|
 
 
 
