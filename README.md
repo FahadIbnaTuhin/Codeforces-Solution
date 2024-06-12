@@ -292,6 +292,8 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1040-A|[1040-A](https://codeforces.com/problemset/problem/1040/A)| [C++](./1040A.cpp)|
 |876-A|[876-A](https://codeforces.com/problemset/problem/876/A)| [C++](./876A.cpp)|
 |834-A|[834-A](https://codeforces.com/problemset/problem/834/A)| [C++](./834A.cpp)|
+|950-A|[950-A](https://codeforces.com/problemset/problem/950/A)| [C++](./950A.cpp)|
+|975-A|[975-A](https://codeforces.com/problemset/problem/975/A)| [C++](./975A.cpp)|
 
 
 
