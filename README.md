@@ -294,6 +294,7 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |834-A|[834-A](https://codeforces.com/problemset/problem/834/A)| [C++](./834A.cpp)|
 |950-A|[950-A](https://codeforces.com/problemset/problem/950/A)| [C++](./950A.cpp)|
 |975-A|[975-A](https://codeforces.com/problemset/problem/975/A)| [C++](./975A.cpp)|
+|1130-A|[975-A](https://codeforces.com/problemset/problem/1130/A)| [C++](./1130A.cpp)|
 
 
 
