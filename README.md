@@ -295,6 +295,8 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |950-A|[950-A](https://codeforces.com/problemset/problem/950/A)| [C++](./950A.cpp)|
 |975-A|[975-A](https://codeforces.com/problemset/problem/975/A)| [C++](./975A.cpp)|
 |1130-A|[975-A](https://codeforces.com/problemset/problem/1130/A)| [C++](./1130A.cpp)|
+|1979-A|[1979-A](https://codeforces.com/problemset/problem/1979/A)| [C++](./1979A.cpp)|
+|1979-B|[1979-B](https://codeforces.com/problemset/problem/1979/B)| [C++](./1979B.cpp)|
 
 
 
