@@ -297,6 +297,9 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1130-A|[975-A](https://codeforces.com/problemset/problem/1130/A)| [C++](./1130A.cpp)|
 |1979-A|[1979-A](https://codeforces.com/problemset/problem/1979/A)| [C++](./1979A.cpp)|
 |1979-B|[1979-B](https://codeforces.com/problemset/problem/1979/B)| [C++](./1979B.cpp)|
+|1982-A|[1982-A](https://codeforces.com/problemset/problem/1982/A)| [C++](./1982A.cpp)|
+|1982-B|[1982-B](https://codeforces.com/problemset/problem/1982/B)| [C++](./1982B.cpp)|
+|1113-A|[1113-A](https://codeforces.com/problemset/problem/1113/A)| [C++](./1113A.cpp)|
 
 
 
