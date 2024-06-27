@@ -6,6 +6,7 @@ int main() {
     // ios::sync_with_stdio(false);
     // cin.tie(0);
 
+    cout << "HI\n" << '\n';
     
 
     return 0;
