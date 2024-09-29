@@ -302,6 +302,8 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1113-A|[1113-A](https://codeforces.com/problemset/problem/1113/A)| [C++](./1113A.cpp)|
 |1191-A|[1191-A](https://codeforces.com/problemset/problem/1191/A)| [C++](./1191A.cpp)|
 |1389-A|[1389-A](https://codeforces.com/problemset/problem/1389/A)| [C++](./1389A.cpp)|
+|1353-A|[1353-A](https://codeforces.com/problemset/problem/1353/A)| [C++](./1353A.cpp)|
+|1992-A|[1992-A](https://codeforces.com/problemset/problem/1992/A)| [C++](./1992A.cpp)|
 
 
 
