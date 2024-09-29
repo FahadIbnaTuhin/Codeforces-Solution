@@ -300,6 +300,8 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1982-A|[1982-A](https://codeforces.com/problemset/problem/1982/A)| [C++](./1982A.cpp)|
 |1982-B|[1982-B](https://codeforces.com/problemset/problem/1982/B)| [C++](./1982B.cpp)|
 |1113-A|[1113-A](https://codeforces.com/problemset/problem/1113/A)| [C++](./1113A.cpp)|
+|1191-A|[1191-A](https://codeforces.com/problemset/problem/1191/A)| [C++](./1191A.cpp)|
+|1389-A|[1389-A](https://codeforces.com/problemset/problem/1389/A)| [C++](./1389A.cpp)|
 
 
 
