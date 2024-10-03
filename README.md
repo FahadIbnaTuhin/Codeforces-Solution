@@ -304,9 +304,14 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1389-A|[1389-A](https://codeforces.com/problemset/problem/1389/A)| [C++](./1389A.cpp)|
 |1353-A|[1353-A](https://codeforces.com/problemset/problem/1353/A)| [C++](./1353A.cpp)|
 |1992-A|[1992-A](https://codeforces.com/problemset/problem/1992/A)| [C++](./1992A.cpp)|
-
-
-
+|1337-A|[1337-A](https://codeforces.com/problemset/problem/1337/A)| [C++](./1337A.cpp)|
+|1702-A|[1702-A](https://codeforces.com/problemset/problem/1702/A)| [C++](./1702A.cpp)|
+|1690-A|[1690-A](https://codeforces.com/problemset/problem/1690/A)| [C++](./1690A.cpp)|
+|1859-A|[1859-A](https://codeforces.com/problemset/problem/1859/A)| [C++](./1859A.cpp)|
+|514-A|[514-A](https://codeforces.com/problemset/problem/514/A)| [C++](./514A.cpp)|
+|1207-A|[1207-A](https://codeforces.com/problemset/problem/1207/A)| [C++](./1207A.cpp)|
+|2008-A|[2008-A](https://codeforces.com/problemset/problem/2008/A)| [C++](./2008A.cpp)|
+|1837-A|[1837-A](https://codeforces.com/problemset/problem/1837/A)| [C++](./1837A.cpp)|
 
 
 
