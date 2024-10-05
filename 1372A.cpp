@@ -11,8 +11,12 @@ int main() {
     int t; cin >> t;
 
     while (t--) {
-        
+        int a; cin >> a;
+        for (int i = 0; i < a; i++) {
+            cout << 7 << ' ';
+        }
+        cout << '\n';
     }
-    
+
     return 0;
 }

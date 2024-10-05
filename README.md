@@ -312,6 +312,13 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1207-A|[1207-A](https://codeforces.com/problemset/problem/1207/A)| [C++](./1207A.cpp)|
 |2008-A|[2008-A](https://codeforces.com/problemset/problem/2008/A)| [C++](./2008A.cpp)|
 |1837-A|[1837-A](https://codeforces.com/problemset/problem/1837/A)| [C++](./1837A.cpp)|
+|1372-A|[1372-A](https://codeforces.com/problemset/problem/1372/A)| [C++](./1372A.cpp)|
+|1862-B|[1862-B](https://codeforces.com/problemset/problem/1862/B)| [C++](./1862B.cpp)|
+|1611-A|[1611-A](https://codeforces.com/problemset/problem/1611/A)| [C++](./1611A.cpp)|
+|1878-B|[1878-B](https://codeforces.com/problemset/problem/1878/B)| [C++](./1878B.cpp)|
+|1929-A|[1929-A](https://codeforces.com/problemset/problem/1929/A)| [C++](./1929A.cpp)|
+|1914-B|[1914-B](https://codeforces.com/problemset/problem/1914/B)| [C++](./1914B.cpp)|
+
 
 
 
