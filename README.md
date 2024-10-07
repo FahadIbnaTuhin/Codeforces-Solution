@@ -323,6 +323,9 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1529-A|[1529-A](https://codeforces.com/problemset/problem/1529/A)| [C++](./1529A.cpp)|
 |1185-A|[1185-A](https://codeforces.com/problemset/problem/1185/A)| [C++](./1185A.cpp)|
 |1004-A|[1004-A](https://codeforces.com/problemset/problem/1004/A)| [C++](./1004A.cpp)|
+|1209-A|[1209-A](https://codeforces.com/problemset/problem/1209/A)| [C++](./1209A.cpp)|
+|1208-A|[1209-A](https://codeforces.com/problemset/problem/1208/A)| [C++](./1208A.cpp)|
+|1138-A|[1138-A](https://codeforces.com/problemset/problem/1138/A)| [C++](./1138A.cpp)|
 
 
 
