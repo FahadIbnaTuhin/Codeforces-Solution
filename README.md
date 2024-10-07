@@ -318,6 +318,11 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1878-B|[1878-B](https://codeforces.com/problemset/problem/1878/B)| [C++](./1878B.cpp)|
 |1929-A|[1929-A](https://codeforces.com/problemset/problem/1929/A)| [C++](./1929A.cpp)|
 |1914-B|[1914-B](https://codeforces.com/problemset/problem/1914/B)| [C++](./1914B.cpp)|
+|1783-A|[1783-A](https://codeforces.com/problemset/problem/1783/A)| [C++](./1783A.cpp)|
+|1918-A|[1918-A](https://codeforces.com/problemset/problem/1918/A)| [C++](./1918A.cpp)|
+|1529-A|[1529-A](https://codeforces.com/problemset/problem/1529/A)| [C++](./1529A.cpp)|
+|1185-A|[1185-A](https://codeforces.com/problemset/problem/1185/A)| [C++](./1185A.cpp)|
+|1004-A|[1004-A](https://codeforces.com/problemset/problem/1004/A)| [C++](./1004A.cpp)|
 
 
 
