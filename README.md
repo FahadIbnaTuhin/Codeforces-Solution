@@ -331,6 +331,9 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |765-A|[765-A](https://codeforces.com/problemset/problem/765/A)| [C++](./765A.cpp)|
 |776-A|[776-A](https://codeforces.com/problemset/problem/776/A)| [C++](./776A.cpp)|
 |1201-A|[1201-A](https://codeforces.com/problemset/problem/1201/A)| [C++](./1201A.cpp)|
+|1075-A|[1075-A](https://codeforces.com/problemset/problem/1075/A)| [C++](./1075A.cpp)|
+|892-A|[892-A](https://codeforces.com/problemset/problem/892/A)| [C++](./892A.cpp)|
+|796-A|[796-A](https://codeforces.com/problemset/problem/796/A)| [C++](./796A.cpp)|
 
 
 
