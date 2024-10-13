@@ -342,6 +342,7 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |127-A|[127-A](https://codeforces.com/problemset/problem/127/A)| [C++](./127A.cpp)|
 |459-A|[459-A](https://codeforces.com/problemset/problem/459/A)| [C++](./459A.cpp)|
 |476-A|[476-A](https://codeforces.com/problemset/problem/476/A)| [C++](./476A.cpp)|
+|1915-B|[1915-B](https://codeforces.com/problemset/problem/1915/B)| [C++](./1915B.cpp)|
 
 
 
