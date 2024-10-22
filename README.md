@@ -345,6 +345,7 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1915-B|[1915-B](https://codeforces.com/problemset/problem/1915/B)| [C++](./1915B.cpp)|
 |550-B|[550-B](https://codeforces.com/problemset/problem/550/B)| [C++](./550B.cpp)|
 |1920-B|[1920-B](https://codeforces.com/problemset/problem/1920/B)| [C++](./1920A.cpp)|
+|579-A|[579-A](https://codeforces.com/problemset/problem/579/A)| [C++](./579A.cpp)|
 
 
 
