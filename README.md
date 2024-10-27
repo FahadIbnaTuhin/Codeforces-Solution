@@ -347,6 +347,12 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1920-B|[1920-B](https://codeforces.com/problemset/problem/1920/B)| [C++](./1920A.cpp)|
 |579-A|[579-A](https://codeforces.com/problemset/problem/579/A)| [C++](./579A.cpp)|
 |1097-B|[1097-B](https://codeforces.com/problemset/problem/1097/B)| [C++](./1097B.cpp)|
+|2033-D|[2033-D](https://codeforces.com/problemset/problem/2033/D)| [C++](./2033D.cpp)|
+|2033-A|[2033-A](https://codeforces.com/problemset/problem/2033/A)| [C++](./2033A.cpp)|
+|2033-B|[2033-B](https://codeforces.com/problemset/problem/2033/B)| [C++](./2033B.cpp)|
+|598-A|[598-A](https://codeforces.com/problemset/problem/598/A)| [C++](./598A.cpp)|
+|385-B|[385-B](https://codeforces.com/problemset/problem/385/B)| [C++](./385B.cpp)|
+|735-D|[735-D](https://codeforces.com/problemset/problem/735/D)| [C++](./735D.cpp)|
 
 
 

@@ -1,40 +1,39 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int main() {
-    long long int n; cin >> n;
+typedef long long ll;
 
-    if (n % 2 == 0) {
-        cout << (n / 2) << endl;
-        return 0;
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(0);
+    ll n; cin >> n;
+
+    ll ans;
+    if (n & 1) {
+        ans = (n / 2) - n;
     } else {
-        cout << (- ((n + 1) / 2)) << endl;
+        ans = n / 2;
     }
+    cout << ans << '\n';
 
     return 0;
 }
 
-// f(1) = - 1 = -1
-// f(2) = - 1 + 2 = 1
-// f(3) = - 1 + 2 - 3 = -2
-// f(4) = - 1 + 2 - 3 + 4 = 2
-// f(5) = - 1 + 2 - 3 + 4 - 5 = -3
-// f(6) = - 1 + 2 - 3 + 4 - 5 + 6 = 3
-// f(7) = 3 - 7 = -4
-// f(8) = -4 + 8 = 4
-// f(9) = 4 - 9 = -5
-// f(10) = -5 + 10 = 5
-// Notice, when it is even, the result is the half of the input
+// observe this:
 
-// 1 = -1
-// 3 = -2
-// 5 = -3
-// 7 = -4 
-// 9 = -5
+// when all odd is negative
+// for even: f(4) = -1+2 -3+4 = 1 +1 = 2  formula: n / 2
+// for odd: f(5) = -1+2-3+4 -5 = 1+1 -5 = 2 -5 = -3 formula: (n / 2) - n
 
-// if x = 5, then add 1 and then divide the sum by 2. Add negative for odd numbers
-// 5 + 1 = 6 / 2 = 3. Add negative for odd, so -3
+// when all even is negative
+// for even: f(4) = 1-2+3-4 = -1 -1 = -2 formula: -n/2
+// for odd: f(5) = 1-2+3-4 +5 = -1-1 +5 = -2 +5 = 3 formula: -(n/2) + n
 
-// long long a = 234234; & long long int a = 234234; main differnece is:
-// In C++, long long and long long int are essentially the same type. The int in long long int is optional and 
-// redundant because long long already indicates an integer type
+
+// Not used this, as it is giving tle.
+// The sum of the first n odd numbers is simply n^2.
+// 1 = 1^2
+// 1 + 3 = 4 = 2^2
+// 1 + 3 + 5 = 9 = 3^2
+// 1 + 3 + 5 + 7 = 16 = 4^2
+// 1 + 3 + 5 + 7 + 9 = 25 = 5^2
