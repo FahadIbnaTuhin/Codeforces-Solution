@@ -354,6 +354,7 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |385-B|[385-B](https://codeforces.com/problemset/problem/385/B)| [C++](./385B.cpp)|
 |735-D|[735-D](https://codeforces.com/problemset/problem/735/D)| [C++](./735D.cpp)|
 |729-D|[729-D](https://codeforces.com/problemset/problem/729/D)| [C++](./729D.cpp)|
+|2032-A|[2032-A](https://codeforces.com/problemset/problem/2032/A)| [C++](./2032A.cpp)|
 
 
 
