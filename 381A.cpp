@@ -3,44 +3,43 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int main() {
-    int n; cin >> n;
-    
-    int arr[n];
-    for(int i = 0; i < n; i++) cin >> arr[i];
+typedef long long ll;
 
-    int l = 0, r = sizeof(arr) / sizeof(arr[0]) - 1;
-    int s = 0, d = 0, f1 = 1;
+vector<ll> generateAns(const vector<int> &v) {
+    int i = 0, j = v.size() - 1;
+    ll sereja = 0, dima = 0;
+    bool flag = true; // true for sereja
 
-    while(l <= r) {
-        if (f1 == 1) {
-            if (arr[l] < arr[r]) {
-                s += arr[r];
-                --r;
-            } else {
-                s += arr[l];
-                ++l;
-            }
-
-            f1 = 2;
+    while (i <= j) {
+        if (v[i] >= v[j]) {
+            if (flag) sereja += v[i];
+            else dima += v[i];
+            flag = !flag;
+            i++;
         } else {
-            if (arr[l] < arr[r]) {
-                d += arr[r];
-                --r;
-            } else {
-                d += arr[l];
-                ++l;
-            }
-
-            f1 = 1;
+            if (flag) sereja += v[j];
+            else dima += v[j];
+            flag = !flag;
+            j--;
         }
     }
 
-    cout << s << " " << d << endl;
+    return {sereja, dima};
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(0);    
+    int n; cin >> n;
+
+    vector<int> v(n);
+    for (int i = 0; i < n; i++) cin >> v[i];
+    
+    vector<ll> ans = generateAns(v);
+    cout << ans[0] << ' ' << ans[1] << '\n';
 
     return 0;
 }
-
 
 
 // time complexitity: wrost case: 5 4 3 2 1
