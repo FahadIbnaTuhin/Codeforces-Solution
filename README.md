@@ -359,6 +359,7 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |2036-B|[2036-B](https://codeforces.com/problemset/problem/2036/B)| [C++](./2036B.cpp)|
 |2036-C|[2036-C](https://codeforces.com/problemset/problem/2036/C)| [C++](./2036C.cpp)|
 |2032-B|[2032-B](https://codeforces.com/problemset/problem/2032/B)| [C++](./2032B.cpp)|
+|2029-A|[2029-A](https://codeforces.com/problemset/problem/2029/A)| [C++](./2029A.cpp)|
 
 
 
