@@ -360,6 +360,12 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |2036-C|[2036-C](https://codeforces.com/problemset/problem/2036/C)| [C++](./2036C.cpp)|
 |2032-B|[2032-B](https://codeforces.com/problemset/problem/2032/B)| [C++](./2032B.cpp)|
 |2029-A|[2029-A](https://codeforces.com/problemset/problem/2029/A)| [C++](./2029A.cpp)|
+|762-A|[762-A](https://codeforces.com/problemset/problem/762/A)| [C++](./762A.cpp)|
+|1203-C|[1203-C](https://codeforces.com/problemset/problem/1203/C)| [C++](./1203C.cpp)|
+|1916-B|[1916-B](https://codeforces.com/problemset/problem/1916/B)| [C++](./1916B.cpp)|
+|1915-C|[1915-C](https://codeforces.com/problemset/problem/1915/C)| [C++](./1915C.cpp)|
+|1996-A|[1996-A](https://codeforces.com/problemset/problem/1996/A)| [C++](./1996A.cpp)|
+|1476-A|[1476-A](https://codeforces.com/problemset/problem/1476/A)| [C++](./1476A.cpp)|
 
 
 
