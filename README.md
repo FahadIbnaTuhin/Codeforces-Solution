@@ -366,6 +366,11 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1915-C|[1915-C](https://codeforces.com/problemset/problem/1915/C)| [C++](./1915C.cpp)|
 |1996-A|[1996-A](https://codeforces.com/problemset/problem/1996/A)| [C++](./1996A.cpp)|
 |1476-A|[1476-A](https://codeforces.com/problemset/problem/1476/A)| [C++](./1476A.cpp)|
+|1850-F|[1850-F](https://codeforces.com/problemset/problem/1850/F)| [C++](./1850F.cpp)|
+|2031-A|[2031-A](https://codeforces.com/problemset/problem/2031/A)| [C++](./2031A.cpp)|
+|2031-B|[2031-B](https://codeforces.com/problemset/problem/2031/B)| [C++](./2031B.cpp)|
+|1744-C|[1744-C](https://codeforces.com/problemset/problem/1744/C)| [C++](./1744C.cpp)|
+|978-C|[978-C](https://codeforces.com/problemset/problem/978/C)| [C++](./978C.cpp)|
 
 
 
