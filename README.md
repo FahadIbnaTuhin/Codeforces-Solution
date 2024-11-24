@@ -377,6 +377,8 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1366-A|[1366-A](https://codeforces.com/problemset/problem/1366/A)| [C++](./1366A.cpp)|
 |2041-A|[2041-A](https://codeforces.com/problemset/problem/2041/A)| [C++](./2041A.cpp)|
 |2041-E|[2041-E](https://codeforces.com/problemset/problem/2041/E)| [C++](./2041E.cpp)|
+|776-B|[776-B](https://codeforces.com/problemset/problem/776/B)| [C++](./776B.cpp)|
+|32-A|[32-A](https://codeforces.com/problemset/problem/32/A)| [C++](./32A.cpp)|
 
 
 
