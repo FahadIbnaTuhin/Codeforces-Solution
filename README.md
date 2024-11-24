@@ -375,6 +375,7 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |2037-B|[2037-B](https://codeforces.com/problemset/problem/2037/B)| [C++](./2037B.cpp)|
 |2037-C|[2037-C](https://codeforces.com/problemset/problem/2037/C)| [C++](./2037C.cpp)|
 |1366-A|[1366-A](https://codeforces.com/problemset/problem/1366/A)| [C++](./1366A.cpp)|
+|2041-A|[2041-A](https://codeforces.com/problemset/problem/2041/A)| [C++](./2041A.cpp)|
 
 
 
