@@ -315,6 +315,7 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |1372-A|[1372-A](https://codeforces.com/problemset/problem/1372/A)| [C++](./1372A.cpp)|
 |1862-B|[1862-B](https://codeforces.com/problemset/problem/1862/B)| [C++](./1862B.cpp)|
 |1611-A|[1611-A](https://codeforces.com/problemset/problem/1611/A)| [C++](./1611A.cpp)|
+|1611-B|[1611-B](https://codeforces.com/problemset/problem/1611/B)| [C++](./1611B.cpp)|
 |1878-B|[1878-B](https://codeforces.com/problemset/problem/1878/B)| [C++](./1878B.cpp)|
 |1929-A|[1929-A](https://codeforces.com/problemset/problem/1929/A)| [C++](./1929A.cpp)|
 |1914-B|[1914-B](https://codeforces.com/problemset/problem/1914/B)| [C++](./1914B.cpp)|
@@ -379,6 +380,9 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |2041-E|[2041-E](https://codeforces.com/problemset/problem/2041/E)| [C++](./2041E.cpp)|
 |776-B|[776-B](https://codeforces.com/problemset/problem/776/B)| [C++](./776B.cpp)|
 |32-A|[32-A](https://codeforces.com/problemset/problem/32/A)| [C++](./32A.cpp)|
+|2041-B|[2041-B](https://codeforces.com/problemset/problem/2041/B)| [C++](./2041B.cpp)|
+|2039-A|[2039-A](https://codeforces.com/problemset/problem/2039/A)| [C++](./2039A.cpp)|
+|2039-B|[2039-B](https://codeforces.com/problemset/problem/2039/B)| [C++](./2039B.cpp)|
 
 
 
