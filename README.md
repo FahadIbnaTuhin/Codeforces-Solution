@@ -391,6 +391,7 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |2040-B|[2040-B](https://codeforces.com/problemset/problem/2040/B)| [C++](./2040B.cpp)|
 |30-A|[30-A](https://codeforces.com/problemset/problem/30/A)| [C++](./30A.cpp)|
 |16-A|[16-A](https://codeforces.com/problemset/problem/16/A)| [C++](./16A.cpp)|
+|1463-A|[1463-A](https://codeforces.com/problemset/problem/1463/A)| [C++](./1463A.cpp)|
 
 
 
