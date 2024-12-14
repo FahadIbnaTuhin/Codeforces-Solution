@@ -393,6 +393,7 @@ This repository contains the solutions to CodeForces competitions. The challenge
 |16-A|[16-A](https://codeforces.com/problemset/problem/16/A)| [C++](./16A.cpp)|
 |1463-A|[1463-A](https://codeforces.com/problemset/problem/1463/A)| [C++](./1463A.cpp)|
 |445-B|[445-B](https://codeforces.com/problemset/problem/445/B)| [C++](./445B.cpp)|
+|115-A|[115-A](https://codeforces.com/problemset/problem/115/A)| [C++](./115A.cpp)|
 
 
 
